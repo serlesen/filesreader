@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "filesreader"
-version = "0.1.0"
+version = "0.1.1"
 description = "A small project to read files"
 authors = ["Sergio lema <lema.sergio.85@gmail.com>"]
 readme = "README.md"
